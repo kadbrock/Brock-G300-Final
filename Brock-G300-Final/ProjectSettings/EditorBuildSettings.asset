@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final Project - JetPacker.unity
+    guid: 107e2ef910e70d845952851626046a57
   m_configObjects: {}
