@@ -6,6 +6,7 @@ TagManager:
   tags:
   - dead
   - player
+  - star
   layers:
   - Default
   - TransparentFX
